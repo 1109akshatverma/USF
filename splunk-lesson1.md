@@ -6,13 +6,13 @@
 
 Click on **Launch Lab** button to start the lab.
 
-  ![](./images/launch.png)
+  ![](./images/splunk-launch.png)
 
 ## Accessing Your Lab Environment
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
  
-  ![](./images/env3.png)
+  ![](./images/splunk-vm.png)
 
 ## Virtual Machine & Lab Guide
  
@@ -28,7 +28,7 @@ To get a better understanding of your lab resources and credentials, navigate to
  
 For convenience, you can open the guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
-  ![Use the Split Window Feature](./images/split2.png)
+  ![Use the Split Window Feature](./images/split-splunk.png)
 
 ## Managing Your Virtual Machine
  
