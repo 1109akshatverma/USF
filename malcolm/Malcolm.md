@@ -44,7 +44,7 @@ For assistance, click the **Help** tab in the top navigation bar to access troub
 
 ## Accessing to Malcolm Server
 
-1. Navigate to the **https://<inject key="UbuntuVMPublicIp" enableCopy="false"/>/** URL to access your Malcolm. 
+1. Navigate to the following URL to access your Malcolm Server. 
 
    ```
    https://<inject key="UbuntuVMPublicIp" enableCopy="false"/>/
