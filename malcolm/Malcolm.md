@@ -44,15 +44,21 @@ For assistance, click the **Help** tab in the top navigation bar to access troub
 
 ## Accessing Malcolm Server
 
-1. Navigate to the following URL to access your Malcolm Server. 
+1. Navigate to the following URL to access your Malcolm Server using its public IP. 
 
    ```
    https://<inject key="UbuntuVMPublicIp" enableCopy="false"/>/
    ```
-   
+
+1. You can also determine the public IP address of the VM by running:
+
    ```
-   https://<inject key="UbuntuVMDNSName" enableCopy="false"/>/
+   curl ifconfig.me
    ```
+
+   ![](./images/9.png)
+
+1. Then navigate to: `https://<public-ip>/`.
 
 1. Provide the following credentials.
 
