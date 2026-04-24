@@ -47,17 +47,9 @@ For assistance, click the **Help** tab in the top navigation bar to access troub
 1. Navigate to the **https://<inject key="UbuntuVMPublicIp" enableCopy="false"/>/** URL to access your Malcolm. 
 
    ```
-   <inject key="UbuntuVMPublicIp" enableCopy="false"/>
-   ```
-
-   `
    https://<inject key="UbuntuVMPublicIp" enableCopy="false"/>/
-   `
-
-   `
-   <inject key="UbuntuVMPublicIp" enableCopy="false"/>
-   `
-
+   ```
+   
 1. Provide the following credentials.
 
    - **Username:** `admin`
