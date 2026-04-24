@@ -50,6 +50,10 @@ For assistance, click the **Help** tab in the top navigation bar to access troub
    https://<inject key="UbuntuVMPublicIp" enableCopy="false"/>/
    ```
    
+   ```
+   https://<inject key="UbuntuVMDNSName" enableCopy="false"/>/
+   ```
+
 1. Provide the following credentials.
 
    - **Username:** `admin`
