@@ -12,7 +12,7 @@ Click on **Launch Lab** button to start the lab.
  
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
  
-  ![](./images/)
+  ![](./images/8.png)
 
 ## Virtual Machine & Lab Guide
  
@@ -28,7 +28,7 @@ To get a better understanding of your lab resources and credentials, navigate to
  
 For convenience, you can open the guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
-  ![Use the Split Window Feature](./images/split2.png)
+  ![](./images/7.png)
 
 ## Managing Your Virtual Machine
  
@@ -42,7 +42,7 @@ For assistance, click the **Help** tab in the top navigation bar to access troub
 
   ![](./images/4.png)
 
-## Accessing to Malcolm Server
+## Accessing Malcolm Server
 
 1. Navigate to the following URL to access your Malcolm Server. 
 
