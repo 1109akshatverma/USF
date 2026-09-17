@@ -1,4 +1,4 @@
-# Velociraptor Mini-Project
+# Velociraptor + Splunk Lab
 
 ## Getting Started with the lab
 
